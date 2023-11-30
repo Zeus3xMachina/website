@@ -1,0 +1,12 @@
+baseURL: 'https://bensutton.com'
+title: 'Benjamin Sutton'
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
+languageCode: 'en-us'
+
+
