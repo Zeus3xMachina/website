@@ -8,5 +8,4 @@ title: 'Benjamin Sutton'
 enableEmoji: true
 disableKinds: ['taxonomy', 'term']
 languageCode: 'en-us'
-
-
+ignoreErrors: ["error-remote-getjson"]
